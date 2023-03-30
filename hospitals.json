@@ -1,0 +1,19 @@
+{
+  "hospitals": [
+    {
+      "name": "one",
+      "patientCount": 50,
+      "location": "Kerala"
+    },
+    {
+      "name": "Two",
+      "patientCount": 100,
+      "location": "Karnataka"
+    },
+    {
+      "name": "Three",
+      "patientCount": 150,
+      "location": "Taminadu"
+    }
+  ]
+}
